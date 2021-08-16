@@ -1,2 +1,2 @@
 # Telephone-customer_churn
-Self_project IME672
+This project is based on the following dataset available at Kaggle : https://www.kaggle.com/blastchar/telco-customer-churn
