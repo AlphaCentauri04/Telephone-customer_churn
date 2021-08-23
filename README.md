@@ -5,6 +5,5 @@ Customer Churn is when customers leave a service in a given period of time, what
 
 This work has as objective to build a machine learning model to predict what customers will leave the service. 
 
-Also, an Exploratory Data Analysis is made to a better understand about the data. 
+Also, an Exploratory Data Analysis is made to  better understand the data. 
 
-Another point on this work is use the PyCaret Python Module to make all the experiment pipeline.
